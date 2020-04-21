@@ -1,0 +1,6 @@
+Tumor	Clo17	Clo21	Clo15	Clo12	Clo26	Clo10	Clo24	Clo28	Clo18	Clo19	Clo7	Clo20	Clo9	Clo13
+M1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+M2	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+M3	1	0	1	0	0	0	0	0	1	0	0	0	0	1
+M4	0	0	0	1	0	1	0	0	0	0	1	0	1	0
+P	0	0	0	0	1	0	1	1	0	0	0	0	0	0
