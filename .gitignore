@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# But not these files...
+!*/
+!Example_data/**
+!.gitignore
+!README.txt
+!ancestral_seqs_ML_protein.mao
+!infer_NJ_amino_acid.mao
+!megacc_200422.exe
+!megacc.exe
+!megacc_11210415.exe
+!outgroup.txt
+!pathfinder.py
+!tree_permute.py
