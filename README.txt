@@ -13,8 +13,10 @@ PathFinder is a python script developed in a Windows 64-bit architecture, and do
 	matplotlib
 	pydot
 	graphviz
-	networkx
+	networkx (<=2.8)
 	biopython
+
+If networkx version is higher than 2.8, PathFinder will not work. In this case, please try fully uninstalling your networkx package from python, and then reinstalling version 2.8 of the networkx package. If you're using pip, that should just mean "pip uninstall networkx" and then "pip install networkx==2.8". If it tells you that version isn't available, just do "pip install networkx==" and it will list the available versions, then pick the latest version available that's less than 2.8.
 
 Additionally, PathFinder uses MEGA-CC. MEGA-CC can be downloaded for Windows, Mac OS X, and Linux from (http://www.megasoftware.net).
 
